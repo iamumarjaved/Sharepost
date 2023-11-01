@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Share Link Extension",
+    "version": "1.0",
+    "description": "Share current page link on Facebook and Twitter",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "tabs"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png"
+        }
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+
+}
