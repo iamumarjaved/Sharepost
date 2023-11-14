@@ -1,6 +1,6 @@
 # Share Link Chrome Extension
 
-Share Link is a simple Chrome extension that allows users to share a webpage's URL and its summary directly to Facebook and Twitter with the click of a button. Perfect for content curators and social media enthusiasts!
+Share Link is a Chrome extension that allows users to share a webpage's URL and its summary directly to Facebook and Twitter with the click of a button. Perfect for content curators and social media enthusiasts!
 
 ## Features
 
